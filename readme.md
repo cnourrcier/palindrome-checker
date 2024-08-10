@@ -1,6 +1,8 @@
 # Build a Palindrome Checker
 
+<!-- DESCRIPTION-START -->
 A JavaScript project that checks if a user input is a palindrome or not.
+<!-- DESCRIPTION-END -->
 
 ![Project Image](https://res.cloudinary.com/dwguf4w1t/image/upload/v1722453367/Portfolio%20Projects/palindrome-checker-js_vsnumw.png)
 
